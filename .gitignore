@@ -53,6 +53,10 @@ training_output.txt
 *.swo
 *~
 
+# Trae配置
+.trae/
+.claude/
+
 # 操作系统
 .DS_Store
 Thumbs.db
