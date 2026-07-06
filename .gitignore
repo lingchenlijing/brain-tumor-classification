@@ -67,9 +67,13 @@ Thumbs.db
 *.swp
 *~
 
-# 报告中间版本
+# 报告与文档
+*.docx
+*.doc
+*.pdf
 *_V*.docx
 *_normalized.md
+报告撰写提示词.md
 
 # 分析脚本
 analyze_*.py
